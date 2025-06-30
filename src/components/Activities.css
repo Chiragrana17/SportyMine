@@ -1,0 +1,70 @@
+.after-school-section {
+    padding: 60px 20px;
+    background: #f0f8ff;
+    text-align: center;
+}
+
+.after-heading {
+    font-size: 32px;
+    color: #1e90ff;
+    margin-bottom: 35px;
+}
+
+.after-subtext {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 50px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.after-program-list {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.after-program-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    /* More gap between image and text */
+    flex-wrap: wrap;
+}
+
+.after-program-row.reverse {
+    flex-direction: row-reverse;
+}
+
+.after-image-wrapper {
+    flex: 1;
+    max-width: 300px;
+    /* smaller image size */
+}
+
+.after-program-img {
+    width: 100%;
+    height: 370px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.after-program-content {
+    flex: 1;
+    max-width: 500px;
+    text-align: left;
+}
+
+.after-program-content h3 {
+    font-size: 22px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.after-program-content p {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.6;
+}

@@ -1,0 +1,80 @@
+.alt-programs-section {
+    padding: 60px 20px;
+    background: #f5faff;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.alt-heading {
+    font-size: 32px;
+    margin-bottom: 8px;
+    color: #1e90ff;
+}
+
+.alt-subtext {
+    font-size: 15.5px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.alt-program-list {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    /* reduced from 60px */
+}
+
+.alt-program-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    /* reduced from 40px */
+    flex-wrap: wrap;
+    padding: 0 10px;
+}
+
+.alt-program-row.reverse {
+    flex-direction: row-reverse;
+}
+
+.alt-image-wrapper {
+    flex: 1;
+    max-width: 450px;
+}
+
+.alt-program-img {
+    width: 100%;
+    max-width: 300px;
+    height: 360px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.alt-program-content {
+    flex: 1;
+    max-width: 500px;
+    text-align: left;
+}
+
+.alt-program-content h3 {
+    font-size: 24px;
+    color: #0f0f10;
+    margin-bottom: 12px;
+}
+
+.alt-program-content p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #555;
+}
+
+@media (max-width: 768px) {
+    .alt-program-row,
+    .alt-program-row.reverse {
+        flex-direction: column;
+    }
+    .alt-program-content {
+        text-align: center;
+    }
+}

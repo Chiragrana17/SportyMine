@@ -1,0 +1,66 @@
+.contact-container {
+    text-align: center;
+    padding: 3rem 1rem;
+    background-color: #f0f8ff;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.contact-container h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #1e90ff;
+}
+
+.contact-container p {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 2rem;
+}
+
+.contact-icons {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.contact-icons a,
+.contact-icons div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    color: #333;
+    font-size: 1rem;
+    transition: transform 0.3s ease;
+}
+
+.contact-icons a:hover,
+.contact-icons div:hover {
+    transform: scale(1.1);
+}
+
+.icon {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.instagram {
+    color: #e1306c;
+}
+
+.youtube {
+    color: #ff0000;
+}
+
+.whatsapp {
+    color: #25d366;
+}
+
+.email {
+    color: #d44638;
+}
+
+.phone {
+    color: #1e90ff;
+}
