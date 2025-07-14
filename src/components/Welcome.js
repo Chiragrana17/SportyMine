@@ -8,7 +8,7 @@ const Welcome = () => {
         <
         div className = "goalpha-left" >
         <
-        img src = "/welc.jpg"
+        img src = "/gr.jpg"
         alt = "Kids playing sports"
         className = "goalpha-image" /
         >
@@ -32,11 +32,6 @@ const Welcome = () => {
         p >
         In the next stage, we work with the child’ s interest and help the child enhance his / her skill.Go Alpha kids want the kids to be active and choose the right sport
         for them. { " " } <
-        /p>{" "} <
-        p className = "cities" >
-        <
-        strong > Go Alpha operates in 10 + cities: < /strong> Ahmedabad,
-        Bangalore, Delhi, Chennai, Pune, Hyderabad, Gurugram etc.and is working with all the major preschool brands. { " " } <
         /p>{" "} <
         /div>{" "} <
         /div>

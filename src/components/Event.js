@@ -3,7 +3,7 @@ import "./Event.css";
 
 const events = [{
         title: "Mini Sports Carnivals for Young Kids (Ages 2–8)",
-        image: "/msc.jpg",
+        image: "/p6.jpg",
         description: [
             "Obstacle races",
             "Ball balance games",
@@ -14,7 +14,7 @@ const events = [{
     },
     {
         title: "Multi-Sport Events for Older Kids (Ages 9–14)",
-        image: "/mse.jpg",
+        image: "/p7.jpg",
         description: [
             "Football, cricket, and basketball matches",
             "Track & field mini tournaments",
@@ -24,7 +24,7 @@ const events = [{
     },
     {
         title: "Annual Sports Day in Schools",
-        image: "/asd.jpg",
+        image: "/p8.jpg",
         description: [
             "Full event planning & coordination",
             "Customized event line-up for different age groups",
@@ -35,7 +35,7 @@ const events = [{
     },
     {
         title: "Family Fitness & Community Events",
-        image: "/ff.jpg",
+        image: "/p9.jpg",
         description: [
             "Parent-child partner races",
             "Group yoga and fitness challenges",
@@ -46,7 +46,7 @@ const events = [{
     },
     {
         title: "Sporty Birthday Parties",
-        image: "/sbp.jpg",
+        image: "/p10.jpg",
         description: [
             "Sports-themed party games",
             "Fun circuits and obstacle zones",

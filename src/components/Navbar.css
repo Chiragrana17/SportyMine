@@ -28,6 +28,10 @@ body {
     color: white;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     margin-bottom: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999;
 }
 
 .logo {
@@ -110,6 +114,7 @@ body {
     gap: 40px;
     background: linear-gradient(to right, #faf2e8, #fff);
     flex-wrap: nowrap;
+    padding-top: 100px;
 }
 
 .hero-text {
