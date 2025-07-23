@@ -13,7 +13,7 @@ const programs = [{
     },
     {
         title: "Multi-Sport Exposure",
-        description: "Children are introduced to foundational skills from various sports like football, basketball, and athletics, encouraging diverse development.",
+        description: "Children are introduced to foundational skills from various sports like Badminton, football and etc. encouraging diverse development.",
         image: "/p4.jpg",
     },
     {

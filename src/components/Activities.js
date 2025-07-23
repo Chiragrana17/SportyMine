@@ -3,7 +3,7 @@ import "./Activities.css";
 
 const activities = [{
         title: "Structured Sports Sessions",
-        description: "Football, cricket, athletics, and more to deepen their skills and keep them actively engaged after school hours.",
+        description: "Football, basketball, cricket and many more to deepen their skills and keep them actively engaged after school hours.",
         image: "/sss.jpg",
     },
     {
@@ -19,7 +19,7 @@ const activities = [{
     {
         title: "Positive Screen-Free Time",
         description: "A refreshing alternative to screen time, keeping kids mentally and physically refreshed with fun, engaging sessions.",
-        image: "/p5.jpg",
+        image: "/free.jpg",
     },
 ];
 

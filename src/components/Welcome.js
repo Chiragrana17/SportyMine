@@ -21,7 +21,7 @@ const Welcome = () => {
         /h2>{" "} <
         p >
         SportyMine 's mission is to empower individuals of all ages through a
-        comprehensive approach to sports and physical development.We achieve this by fostering fundamental movement skills in children, providing accessible and high - quality multi - sports venues, orchestrating engaging sports events
+        comprehensive approach to sports and physical development.We achieve this by fostering fundamental movement skills in children, providing accessible and high quality multi - sports venues, orchestrating engaging sports events
         for schools and corporations, and delivering expert coaching to nurture athletic talent and promote a lifelong love
         for an active lifestyle. { " " } <
         /p>{" "} <
@@ -30,7 +30,7 @@ const Welcome = () => {
         competitive environment. { " " } <
         /p>{" "} <
         p >
-        In the next stage, we work with the child’ s interest and help the child enhance his / her skill.Go Alpha kids want the kids to be active and choose the right sport
+        In the next stage, we work with the child’ s interest and help the child enhance his / her skill.SpotyMine want the kids to be active and choose the right sport
         for them. { " " } <
         /p>{" "} <
         /div>{" "} <

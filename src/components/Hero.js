@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import "./Navbar.css";
 import { useNavigate } from "react-router-dom";
 
-const images = ["/p1a.jpg", "/p1b.jpg", "/p2a.jpg"];
+const images = ["/p1a.jpg", "/home1.jpg", "/p2a.jpg", "home2.jpg"];
 
 const Hero = () => {
     const [currentIndex, setCurrentIndex] = useState(0);
